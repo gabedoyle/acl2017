@@ -1,2 +1,4 @@
 # acl2017
-Code and dummy data for the WHAM model in Doyle, Goldberg, Srivastava, &amp; Frank 2017 (ACL)
+Code and dummy data for the WHAM model in Doyle, Goldberg, Srivastava, &amp; Frank 2017 (ACL).
+
+To be uploaded within a week...
